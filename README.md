@@ -123,6 +123,8 @@
 
 ## 샘플 분석 소스 
 
+### R 분석 소스
+1. 링크 https://github.com/seoul-iotdata/S-DoT_Data_Analysis_Basic
 ### 파이선 분석 소스 
 1. 파이썬을 설치합니다. <https://www.python.org/downloads/>(설치 시 Add Python 3.8 to PATH 체크 박스 체크)
 2. python_sample_code.py 파일과 실행할 .csv 파일을 Github에서 다운받습니다.
